@@ -1,2 +1,2 @@
 # 4inkpress
-Pagina de PRoductos de Serigrafia
+Pagina de productos de Serigrafia
