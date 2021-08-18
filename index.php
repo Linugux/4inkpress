@@ -204,7 +204,7 @@
       
       <img src="4inkpress/2n.jpg" height="45" weight="35">
       <tt style="color: white; font-size: 13">4inkpress@gmail.com
-      <a style="color: black;font-size: 15pt; background: white">+01(044)5563310702</a>
+      <a style="color: black;font-size: 14pt; background: white" href="http://wa.me/525627194396">+52 56 2719 4396</a>
       </tt>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
