@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <title>4inkPress</title>
-  <link rel="icon" type="image/png" href="4inkpress/2n.jpg">
+  <link rel="icon" type="image/png" href="4inkpress/logoBlue.jpg">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -202,7 +202,7 @@
         <span class="icon-bar"></span>
       </button>
       
-      <img src="4inkpress/2n.jpg" height="45" weight="35">
+      <img src="4inkpress/logoBlue.jpg" height="45" weight="35">
       <tt style="color: white; font-size: 13">4inkpress@gmail.com
       <a style="color: black;font-size: 14pt; background: white" href="http://wa.me/525627194396">+52 56 2719 4396</a>
       </tt>
@@ -226,9 +226,10 @@
 <!-- Container (About Section) -->
 <div  id="about" class="container-fluid">
   <div class="row">
-    <div class="col-sm-12" align="center">
+    <div class="col-sm-12" align="center"><br>
       <h2>Tipo y Material</h2>
-    <!---->
+      <img src="4inkpress/logoBlue.jpg" width="70%">
+      <hr>
       <div style="background: black" align="center" class="container-fluid ">
         <img src="4inkpress/gif.gif" height="100" weight="200">
       </div>
@@ -259,25 +260,25 @@
   <div class="row slideanim">
     <div class="col-sm-4">
       <!--<span class="glyphicon glyphicon-off logo-small"></span>-->
-      <a href="">
-        <img src="4inkpress/6.jpg" height="150" weight="150">
-        <h4>150 Tarjetas x "$ 220.00 "</h4>
+      <a href="4inkpress/6.jpg">
+      <img src="4inkpress/6.jpg" height="150" weight="150">
+        <h4>150 Tarjetas</h4>
       </a>
       <p></p>
     </div>
     <div class="col-sm-4">
       <!--<span class="glyphicon glyphicon-heart logo-small"></span>-->
-  <img src="4inkpress/7.jpg" height="150" weight="150">
-    <a href="">
-      <h4>Lonas 3x3 a "$540.oo"</h4>
+    <a href="4inkpress/7.jpg">
+    <img src="4inkpress/7.jpg" height="150" weight="150">
+      <h4>Lonas 3x3</h4>
       </a>
       <p></p>
     </div>
     <div class="col-sm-4">
       <!--<span class="glyphicon glyphicon-lock logo-small"></span>-->
+      <a href="4inkpress/4.png">
       <img src="4inkpress/4.png" height="150" weight="150">
-      <a href="">
-      <h4>Volantes 1000 x $ 350.oo</h4>
+      <h4>Volantes 1000</h4>
       </a>
       <p></p>
     </div>
@@ -428,7 +429,8 @@
     <div class="col-sm-5 slideanim">
       <p></p>
       <!--<p><span class="glyphicon glyphicon-map-marker"></span> Jardines de la Hda.   Cuatitlan Izcalli , Mex</p>-->
-      <p>Celular<span class="glyphicon glyphicon-phone"></span>+01(044)5563310702 </p>
+      <p><a style="color: black;font-size: 14pt; background: white" href="http://wa.me/525627194396">+52 56 2719 4396</a>
+      <span class="glyphicon glyphicon-phone"></span></p>
       <p><span class="glyphicon glyphicon-envelope"></span> 4inkpress@gmail.com</p>
       <div id="pagina" style="background-color: "></div><br>
     </div>
